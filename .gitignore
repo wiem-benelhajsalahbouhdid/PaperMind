@@ -1,3 +1,4 @@
    data/papers/*.pdf
    index/
    .env
+   venv/
