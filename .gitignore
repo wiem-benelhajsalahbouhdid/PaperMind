@@ -1,4 +1,7 @@
-   data/papers/*.pdf
-   index/
-   .env
-   venv/
+data/papers/
+index/
+venv/
+.venv/
+.env
+__pycache__/
+.agents/

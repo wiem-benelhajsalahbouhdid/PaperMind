@@ -1,0 +1,13 @@
+question,expected_file,expected_page
+Who first proposed federated learning and for which application?,SURVEY2.pdf,1
+What is FedHealth and how does it protect user privacy?,SURVEY2.pdf,5
+What are the steps of the FedHealth framework?,SURVEY2.pdf,5
+Which dataset was used for brain tumor segmentation with FL?,SURVEY2.pdf,8
+What approach was used to diagnose COVID-19 and with what images?,SURVEY2.pdf,8
+Which datasets were used for hypertrophic cardiomyopathy diagnosis?,SURVEY2.pdf,8
+Which US regulation governs medical data?,SURVEY2.pdf,8
+Does FL predict adverse drug reactions as accurately as centralized AI?,SURVEY2.pdf,9
+What are the two types of FL collaboration in terms of trust?,SURVEY2.pdf,12
+Is there a trade-off between privacy and performance in FL?,SURVEY2.pdf,12
+Why does FedAvg often fail with medical data?,SURVEY2.pdf,13
+What future directions are proposed for FL in healthcare?,SURVEY2.pdf,7
